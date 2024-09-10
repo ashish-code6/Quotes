@@ -18,4 +18,4 @@ This project fetches random quotes from the Quotable API and allows users to twe
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ashish-code6/Quotes/tree/main
